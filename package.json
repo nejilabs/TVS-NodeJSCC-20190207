@@ -4,6 +4,8 @@
   "description": "TVS-NodeJS-CC - Node.js Crash Course (Feb 7, 2019) - Just to learn more about Node.js",
   "main": "index.js",
   "scripts": {
+    "start":"node index",
+    "dev":"nodemon index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "nellyXinwei",
